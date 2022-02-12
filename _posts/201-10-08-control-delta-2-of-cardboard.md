@@ -1,4 +1,4 @@
-# laying with cardboard and controlling a delta-2 robot
+# Playing with cardboard and controlling a delta-2 robot
 
 After developing the kinematics algorithms of a delta-2 robot, I want to test it in a real environment. For doing this we built the links using cardboard and connect them to real servo-drives. 
 

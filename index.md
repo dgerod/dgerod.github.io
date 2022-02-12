@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a computer engineer specialized in Robotics, a generalist roboticist. My main expertise areas are: (1) Development of Software Systems, and (2) Robotics and Intelligent Systems. And here I write quick notes about things that I see during my daily work and I think they could be interesting for othe people.

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: ai_planning CRAM mobile_robot MORSE ROS simulation robotics
+tags: control ai_planning CRAM mobile_robot MORSE ROS simulation robotics
 ---
  
 # 'Cat and mouse' game using ROS, Morse and CRAM

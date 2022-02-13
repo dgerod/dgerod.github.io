@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: controller LWR robot MORSE MoveIt ROS simulation
+tags: control LWR robot MORSE MoveIt ROS simulation
 ---
 
 # Control a Kuka LWR in Morse using ROS with MoveIt 

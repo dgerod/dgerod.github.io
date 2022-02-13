@@ -1,3 +1,8 @@
+---
+layout: post
+tags: robotics cardboard delta-3_robot model_design
+---
+
 # Study kinematics of a delta-3 robot using a cardboard model
 
 Sometimes it is useful to create a simple prototype when you are studying a complex robot as parallel ones are. A prototype can help you to understand how its structure reacts when one or more actuated joints are modified.

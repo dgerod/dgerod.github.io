@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: control robotics delta-2_robot servo-drives prototype mode_design
+tags: control robotics delta-2_robot servo-drives prototype CAD
 ---
 
 # Playing with cardboard and controlling a delta-2 robot

@@ -39,4 +39,4 @@ defaults:
     values:
       tags: other
 
-home_post_limit: 3
+home_post_limit: 5

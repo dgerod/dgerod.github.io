@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: robotics delta-3_robot intership OMRON ROS visualizer robot
+tags: robotics delta-3_robot ROS visualizer robot ECAT
 ---
 
 # A visualizer for our robots done using ROS and EtherCAT

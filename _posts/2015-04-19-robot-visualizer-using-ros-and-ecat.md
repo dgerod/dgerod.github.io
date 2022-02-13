@@ -1,3 +1,8 @@
+---
+layout: post
+tags: robotics delta-3_robot intership OMRON ROS visualizer
+---
+
 # A visualizer for our robots done using ROS and EtherCAT
 
 In the MDT we were thinking about using ROS as development framework to make our life easy when we develop our own machine controller, the NJ controller that integrates [robotics functions](http://industrial.omron.eu/en/products/catalogue/motion_and_drives/machine_automation_controllers/nj_series/nj5_robotics/default.html).

@@ -1,5 +1,6 @@
 ---
-tags: computer eee-pc hw touch-screen
+layout: post
+tags: computer eee-pc hardware touch-screen
 ---
 
 Finally I did it! After thinking some time on it, my Asus Eee PC 900A is touchable now...

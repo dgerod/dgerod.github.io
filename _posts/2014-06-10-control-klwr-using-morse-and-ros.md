@@ -1,3 +1,8 @@
+--
+tags: controller, LWR. manipulator, MORSE, MoveIt, ROS, simulation
+---
+
+
 # Control a Kuka LWR in Morse using ROS with MoveIt 
 
 Example to control a simulated robot in [MORSE](http://morse-simulator.github.io) using [MoveIt](http://moveit.ros.org) package from [ROS](http://www.ros.org).

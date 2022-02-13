@@ -1,3 +1,8 @@
+---
+layout: post
+tags: robotics delta-2_robot robot kinematics mathematics algorithms
+---
+
 # Kinematics of a delta-2 robot 
 
 A [delta-2 robot](https://www.youtube.com/watch?v=57WoQSqxPW0) is a parallel robot composed by two legs, each one has three rational joints but only the one attached to the fixed-frame (or top-plate) is not a passive joint. Therefore, to move the end-effector position (TCP-0) of the robot the two active joints must be controlled.

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: controller robotics delta-2_robot kinematics servo-drives prototype
+tags: control robotics delta-2_robot kinematics servo-drives prototype mode_design
 ---
 
 # Playing with cardboard and controlling a delta-2 robot
@@ -14,4 +14,4 @@ After developing the kinematics algorithms of a delta-2 robot, I want to test it
     allowfullscreen>
 </iframe>
 
-There is a playlist with all videos [here](https://youtube.com/playlist?list=PL7EE27202FC7AC46D).
+There is a playlist with all videos in [my channel](https://youtube.com/playlist?list=PL7EE27202FC7AC46D), and the CAD files of robot are stored [here](https://github.com/dgerod/my_CADs/tree/master/delta-2_robot).

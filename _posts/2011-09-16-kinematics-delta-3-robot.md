@@ -1,3 +1,8 @@
+---
+layout: post
+tags: robotics delta-3_robot robot kinematics mathematics algorithms
+---
+
 # Kinematics of a delta-3 robot
 
 Parallel manipulators are robotic devices that differ from the more traditional serial robotic manipulators by virtue of their kinematics structure. Parallel manipulators are composed of multiple closed kinematics loops.

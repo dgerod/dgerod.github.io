@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: robotics delta-3_robot model_design
+tags: robotics delta-3_robot model_design prototype
 ---
 
 # Study kinematics of a delta-3 robot using a cardboard model

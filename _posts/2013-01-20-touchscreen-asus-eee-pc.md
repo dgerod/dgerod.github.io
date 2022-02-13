@@ -3,6 +3,8 @@ layout: post
 tags: computer eee-pc hardware touch-screen
 ---
 
+# Add a touchscreen to my Asus Eee PC
+
 Finally I did it! After thinking some time on it, my Asus Eee PC 900A is touchable now...
 
 <iframe id="video" src="https://www.youtube.com/embed/jWWZtiM083c" 

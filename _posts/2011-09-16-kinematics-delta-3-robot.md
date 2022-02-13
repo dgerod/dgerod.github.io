@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: robotics delta-3_robot robot kinematics algorithms
+tags: robotics delta-3_robot robot kinematics algorithms note
 ---
 
 # Kinematics of a delta-3 robot

@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: robotics delta-2_robot robot kinematics mathematics algorithms
+tags: robotics delta-2_robot robot kinematics
 ---
 
 # Kinematics of a delta-2 robot 
@@ -18,7 +18,7 @@ Due to its mechanical configuration this robot can only move its end-effector on
 The kinematics of the delta-2 robot can be solved using a geometric method. For doing this, we model the robot (see figure abowe) using four kinematics parameters: rf,lf, le, re.
 The parameter rf is the distance between the center of the fixed-frame to the position of the active joint, re is the distance between the center of the end-effector (E) and the position of the passive joint (F), and lf and le are the lengths of the links of a leg. And the link 1 and link 2 of a robot leg are connected in point G.
 
-The [algorithms](https://github.com/dgerod/RTSX) for solving the Kinematics Problem of the delta-2 robot have been developed using [Scilab](http://www.scilab.org).
+The [algorithms](https://github.com/dgerod/RTSX) for solving the Kinematics Problem of the delta-2 robot have been developed using [Scilab](http://www.scilab.org). 
 
 # Inverse kinematics
 

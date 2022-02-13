@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: python software programming tricks
+tags: python software programming tricks note
 ---
 
 # My Python Tricks

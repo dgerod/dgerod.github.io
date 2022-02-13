@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: computer eee-pc hardware touch-screen
+tags: computer electronics hardware touch-screen
 ---
 
 # Add a touchscreen to my Asus Eee PC
